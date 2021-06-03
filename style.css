@@ -1,0 +1,14 @@
+body{
+    color: aliceblue;
+    background-color: black;
+    text-align: center;
+}
+img{
+    margin-top: 20px;
+    border-radius: 40px;
+    border: solid 5px white;
+}
+select{
+    width: 60%;
+    padding: 10px;
+}
